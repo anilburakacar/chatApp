@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "969863896853",
+    "project_id": "chatappkurs-427a3",
+    "storage_bucket": "chatappkurs-427a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969863896853:android:9661cd6288737f9692d31c",
+        "android_client_info": {
+          "package_name": "com.dm8proje"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969863896853-546rqv8ejuecjin35660r396d1q7ma04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATvKnEppV2tqxpOi8Xc06fBYxQrp8K4iQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969863896853-546rqv8ejuecjin35660r396d1q7ma04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
